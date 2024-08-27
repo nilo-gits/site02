@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESTUDO</title>
+</head>
+<body>
+    <h1>Aristóteles.</h1>
+
+   <h2>eu consegui importar fontes.</h2>
+    
+    
+    
+
+    <style>
+        @font-face {
+            font-family: 'ordem';
+            src: url('Blur Light Regular.otf') format('opentype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1 {
+            font-family: 'fox', Times, serif;
+            font-size: 60px;
+            font-weight: normal;
+            }
+        
+    </style>
+
+<style>
+@font-face {
+    font-family: 'fox';
+    src: url(215000E.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+        h2{
+            font-family: 'ordem', Times, serif;
+            font-size: 40px;
+            font-weight: normal;
+        }
+
+
+
+
+
+
+</style>
+
+    <link rel="stylesheet" href="style.css">
+</body>
+</html>
